@@ -11,6 +11,8 @@ public class APITest {
 	
 	{
 		System.out.println(" Post Jira API test");
+		System.out.println(" Post Jira1 API test");
+		System.out.println(" Post Jira2 API test");
 		
 		
 		

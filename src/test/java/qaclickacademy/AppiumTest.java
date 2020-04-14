@@ -23,6 +23,14 @@ public class AppiumTest {
 		
 		
 	}
+@Test
 	
+	public void SanityTest2()
+	{
+		System.out.println("sanity test");
+		
+		
+		
+	}
 
 }

@@ -26,6 +26,16 @@ public class SeleniumTest {
 		
 	}
 	
+@Test
+	
+	public void SanityTest3()
+	{
+		System.out.println("sanity test");
+		
+		
+		
+	}
+	
 	
 
 

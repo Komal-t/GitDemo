@@ -26,5 +26,12 @@ public class APITest {
 		
 		
 	}
+	public void UIdeleteTwitter2()
+	{
+		System.out.println("delete twitter test");
+		
+		
+		
+	}
 	
 	}

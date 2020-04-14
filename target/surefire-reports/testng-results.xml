@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2020-03-28T07:19:29 NZDT" finished-at="2020-03-28T07:19:29 NZDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2020-03-28T07:19:29 NZDT" finished-at="2020-03-28T07:19:29 NZDT">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:qaclickacademy.AppiumTest@4fe3c938]" name="MobileTest" duration-ms="1" started-at="2020-03-28T07:19:29 NZDT" finished-at="2020-03-28T07:19:29 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="SanityTest()[pri:0, instance:qaclickacademy.AppiumTest@4fe3c938]" name="SanityTest" duration-ms="1" started-at="2020-03-28T07:19:29 NZDT" finished-at="2020-03-28T07:19:29 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTest -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:qaclickacademy.APITest@5ec0a365]" name="PostJira" duration-ms="4" started-at="2020-03-28T07:19:29 NZDT" finished-at="2020-03-28T07:19:29 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="UIdeleteTwitter()[pri:0, instance:qaclickacademy.APITest@5ec0a365]" name="UIdeleteTwitter" duration-ms="0" started-at="2020-03-28T07:19:29 NZDT" finished-at="2020-03-28T07:19:29 NZDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIdeleteTwitter -->
+      </class> <!-- qaclickacademy.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
